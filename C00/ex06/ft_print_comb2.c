@@ -33,7 +33,7 @@ void	ft_print_comb2(void)
 			ft_putchar(' ');
 			ft_putchar((b / 10) + '0');
 			ft_putchar((b % 10) + '0');
-			if (a != 98)
+			if (a != 97)
 			{
 				ft_putchar(',');
 				ft_putchar(' ');
